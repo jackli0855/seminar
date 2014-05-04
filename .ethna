@@ -1,0 +1,4 @@
+[project]
+ethna_version = 2.3.6
+controller_file = "app/Seminar_Controller.php"
+controller_class = "Seminar_Controller"
