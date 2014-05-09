@@ -1,0 +1,158 @@
+@charset "UTF-8";
+
+.h301 {
+	margin:25px 0px 0px 0px;
+	padding:10px 15px;
+	background:transparent url(/images/common/bg_h301.gif) no-repeat left bottom;
+	font-weight:bold;
+	border:#d9d9d9 1px solid;
+	border-bottom:none;
+	color:#000000;
+}
+
+.indent01 {
+	margin:0px 10px;
+}
+
+/* フォーム */
+.tb-regist {
+	margin:10px 0px 0px 0px;
+	padding:0px;
+	width:100%;
+	background:#ffffff;
+	border-top:#d9d9d9 1px solid;
+}
+.tb-regist th,
+.tb-regist td {
+	margin:0px;
+	padding:8px 13px;
+	text-align:left;
+	vertical-align:top;
+	
+}
+.tb-regist th { border-left:#a0d55f 5px solid; background:#ffffff;border-bottom:#d9d9d9 1px solid;}
+.tb-regist td { background:#ecf7df;border-bottom:#d9d9d9 1px solid;border-right:#d9d9d9 1px solid;}
+input.text01, textarea.text01 { border:#cccccc 1px solid; padding:1px;}
+
+img.captcha {
+	margin:0px;
+	padding:0px;
+	vertical-align:middle;
+}
+
+/* テーブル */
+.tb01 {
+	margin:10px 0px 0px 0px;
+	padding:0px;
+	border-top:#d9d9d9 1px solid;
+	border-left:#d9d9d9 1px solid;
+	width:100%;
+	background:#ffffff;
+}
+.tb01 th,
+.tb01 td {
+	margin:0px;
+	padding:5px 10px;
+	border-right:#d9d9d9 1px solid;
+	border-bottom:#d9d9d9 1px solid;
+	text-align:left;
+	vertical-align:top;
+}
+.tb01 th { background:#f0f0f0;}
+.tb01 td { background:#ffffff;}
+
+/* ログイン画面 */
+.loginbox {
+	margin: 65px 100px;
+	padding: 50px 20px 60px 20px;
+	border:#d9d9d9 1px solid;
+	background:#f0f0f0;
+}
+.loginbox table {
+	width:100%;
+	border:none;
+}
+.loginbox th {
+	margin:0px;
+	padding:10px 5px 0px 0px;
+	width:20%;
+	text-align:right;
+}
+.loginbox td {
+	margin:0px;
+	padding:0px 0px 0px 0px;
+	text-align:left;
+}
+
+
+/*利用規約*/
+.textbox01 {
+	margin:10px 0px 0px 0px;
+	padding:10px 15px;
+	background:#ecf7df;
+	color:#000000;
+	border:#ffffff 1px solid;
+}
+.textbox02 {
+	margin:10px 0px 0px 0px;
+	padding:15px 20px;
+	background:#f0f0f0;
+}
+.h401 {
+	margin:15px 0px 0px 0px;
+	padding:0px;
+	font-weight:bold;
+	color:#000000;
+}
+
+.ul01 {
+	margin:5px 0px 0px 0px;
+	padding:0px;
+}
+.ul01 li {
+	margin:10px 0px 0px 30px;
+	padding:0px 0px 0px 0px;
+	list-style:decimal;
+}
+.ul02 li {
+}
+
+.ul03 {
+	margin:0px;
+	padding:0px;
+}
+.ul03 li {
+	margin:5px 0px 0px 0px;
+	padding:0px 0px 0px 15px;
+	list-style:none;
+	background:url( /images/common/icon_01.gif) no-repeat left 6px;
+}
+
+
+
+img.left {
+	margin:0px 10px 5px 0px;
+	padding:0px;
+	float:left;
+}
+img.right {
+	margin:0px 0px 5px 10px;
+	padding:0px;
+	float:right;
+}
+.mt0 {
+	margin-top:0px !important;
+}
+
+.mt10 {
+	margin-top:10px !important;
+}
+.mt15 {
+	margin-top:15px !important;
+}
+.mt20 {
+	margin-top:30px !important;
+}
+.frd {
+	color:#cc0000;
+}
